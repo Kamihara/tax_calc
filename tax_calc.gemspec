@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'tax_calc/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "tax_calc"
+  spec.name          = "a1611yk_tax_calc"
   spec.version       = TaxCalc::VERSION
   spec.authors       = ["Kamihara"]
   spec.email         = ["y15kami@gmail.com"]
